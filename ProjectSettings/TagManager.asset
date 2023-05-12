@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Spike
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -58,4 +60,10 @@ TagManager:
     locked: 0
   - name: cenario
     uniqueID: 405767693
+    locked: 0
+  - name: Player
+    uniqueID: 3313841321
+    locked: 0
+  - name: obj
+    uniqueID: 425571919
     locked: 0
